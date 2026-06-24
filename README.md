@@ -116,8 +116,7 @@ NGROK_AUTHTOKEN=3FRMxgVGB0CguFPPVbCXKMIQeTx_3WcndHgbZ13vchUjnGjGx
    ```
    Open `http://127.0.0.1:5000` in your web browser.
 
-   ##Sample Output📄
-   # Sample Output
+   # Sample Output📄
 
 ## AI Career Assistant Report
 
@@ -303,7 +302,7 @@ To improve employability and ATS performance:
 
 ---
 
-##Author
+## Author
 
 Susmija Punnam — Designed and developed an AI-driven Resume Career Assistant that analyzes resumes, identifies key skills, evaluates ATS compatibility, and recommends relevant career opportunities using Python, AI/NLP techniques, and job-matching algorithms.
 
