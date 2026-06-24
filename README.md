@@ -1,5 +1,5 @@
 
-# AI Career Assistant 🤖💼
+# AI Job Agent🤖💼
 
 An AI-powered job search agent that leverages large language models to analyze job descriptions, match candidate skills, optimize resumes, and automate application submissions.
 An autonomous, AI-powered assistant designed to automate and optimize the job search process. The system parses resumes, calculates ATS scores, analyzes skill gaps using Generative AI, and fetches real-time job recommendations.
